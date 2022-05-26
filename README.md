@@ -12,4 +12,4 @@
 
 * Once the project is open, run `npm install` to install dependencies
 
-* Once installed, run `npm start`
+* Once installed, run `npm start`# tic-tac-toe
