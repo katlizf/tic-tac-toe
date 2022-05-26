@@ -12,4 +12,6 @@
 
 * Once the project is open, run `npm install` to install dependencies
 
-* Once installed, run `npm start`# tic-tac-toe
+* Once installed, run `npm start`
+
+* You can also see the full instructions and notes from the React tutorial I followed to create this project: [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
